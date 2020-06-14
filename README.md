@@ -9,9 +9,9 @@
 </h3>
 
 <img  src="assets/capa.png" width="100%"/><br>
-<img  src="assets/mobile1.png" />
-<img  src="assets/mobile2.png" />
-<img  src="assets/mobile3.png" />
+<img  src="assets/mobile1.png" width="33%" />
+<img  src="assets/mobile2.png" width="33%" />
+<img  src="assets/mobile3.png" width="33%" />
 
 ## :information_source: Sobre
 
