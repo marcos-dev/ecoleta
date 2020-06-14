@@ -13,12 +13,12 @@
 <img  src="assets/mobile2.png" width="33%" />
 <img  src="assets/mobile3.png" width="33%" />
 
-## :information_source: &emsp; Sobre
+## :information_source: Sobre
 
 Projeto de uma aplicação Web e Mobile para ajudar pessoas a localizarem pontos de coleta de resíduos para reciclagem.
 O Ecoleta foi desenvolvido durante a Next Level Week 1 promovida pela Rocketseat.
 
-## :rocket: &emsp; Tecnologias
+## :rocket: Tecnologias
 
 - JavaScript
 - Node.js
@@ -28,5 +28,5 @@ O Ecoleta foi desenvolvido durante a Next Level Week 1 promovida pela Rocketseat
 - HTML
 - CSS
 
-## &emsp; Licença
+## Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
