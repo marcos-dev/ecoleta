@@ -29,4 +29,4 @@ O Ecoleta foi desenvolvido durante a Next Level Week 1 promovida pela Rocketseat
 - CSS
 
 ## Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT.
